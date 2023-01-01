@@ -3,7 +3,7 @@ const button = document.querySelector(".submit");
 const outputBox = document.querySelector(".output");
 
 const url = (textInput) =>
-  `https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json?text=${textInput}`;
+  `https://api.funtranslations.com/translate/ferb-latin.json?text=${textInput}`;
 
 button.addEventListener("click", () => {
   const current_url = url(inputText.value);
