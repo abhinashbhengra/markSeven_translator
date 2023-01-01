@@ -1,25 +1,29 @@
-@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital@1&display=swap");
 
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Bangers", cursive;
+  font-family: "Karla", sans-serif;
 }
 body {
-  background-color: #ffc872;
+  background-color: #4f8fc0;
 }
 .header {
-  background-color: yellow;
-  font-size: 3rem;
+  /* background-color: yellow; */
+  font-size: 1.5rem;
   height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+img {
+  height: 45px;
+  width: 40px;
+}
 .about {
-  background-color: yellow;
-  font-size: 1.2rem;
+  background-color: #26648e;
+  font-size: 1rem;
   height: 10vh;
   display: flex;
   flex-direction: column;
