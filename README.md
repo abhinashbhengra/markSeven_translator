@@ -9,5 +9,4 @@ This app is for having fun talk with Phineas and Ferb. You can use this translat
  - Vanilla JavaScript
  - In this application I have used an API : https://funtranslations.com/api/
 
-Lets Talk : https://talkwithfineasandferb.netlify.app/
 [![live-project-click-me](https://user-images.githubusercontent.com/49307371/210539427-018a9261-7476-4c8e-bdfd-0f132e9d953a.svg)](https://talkwithfineasandferb.netlify.app/)
